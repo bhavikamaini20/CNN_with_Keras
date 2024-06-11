@@ -1,7 +1,4 @@
 # CNN_with_Keras
-Here's a README file that you can use for your GitHub repository, describing your convolutional neural network (CNN) project for classifying the MNIST dataset:
-
----
 
 # MNIST Digit Classification with Convolutional Neural Networks
 
